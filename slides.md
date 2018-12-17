@@ -20,7 +20,7 @@
 - Mockup mit Invision Studio gemacht
 - Breakpoints für Mobile und Desktop
 
-<img src="./images/mockup"/>
+<img src="./images/mockup.png"/>
 
 ----
 
