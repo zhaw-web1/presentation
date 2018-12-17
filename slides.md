@@ -2,6 +2,28 @@
 
 ---
 
+## Projekt-Idee
+
+- Neue Website für die Esport-Organisation Scythe of Seraph.
+- Sollte Teams, News, Resultate und Informationen anzeigen
+
+---
+
+## Sitemap Seite
+
+<img src="./images/sitemap.png"/>
+
+---
+
+## Design
+
+- Mockup mit Invision Studio gemacht
+- Breakpoints für Mobile und Desktop
+
+<img src="./images/mockup"/>
+
+----
+
 ## Some subtitle
 
 This is an example paragraph
