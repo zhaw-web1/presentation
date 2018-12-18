@@ -4,8 +4,12 @@
 
 ## Projekt-Idee
 
-- Neue Website für die Esport-Organisation Scythe of Seraph.
-- Sollte Teams, News, Resultate und Informationen anzeigen
+- Neue Website für Scythe of Seraph
+- Beinhaltet:
+  - Teams
+  - News
+  - Resultate
+  - Infos über Organisation
 
 ----
 
