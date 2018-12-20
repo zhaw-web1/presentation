@@ -47,7 +47,7 @@
 - app.component
   - app.component.scss // SCSS stylesheet
   - app.component.html // HTML-Template
-  - app.component.ts // Typescript
+  - app.component.ts   // Typescript
 ```
 
 ----
