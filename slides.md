@@ -69,9 +69,9 @@ Notes: Lazy loading
 
 ----
 
-### Angular - Our Experience
+### Angular - Unsere Erfahrung
 - Projektstruktur
-- Lazy Loaded Modules
+- Lazy Loaded Module
 - Material CDK: Drag & Drop
 - Material CDK: Material-Native Select
 
@@ -81,7 +81,7 @@ Lazy Loaded Modules führen dazu dass ein normaler Besucher z.B. das Admin Panel
 ----
 
 ### Firebase
-- Platform as a service (PAAS)
+- Platform as a Service (PAAS)
 - Für kleinere Projekte kostenfrei
 - JavaScript SDK
 
@@ -95,21 +95,21 @@ Lazy Loaded Modules führen dazu dass ein normaler Besucher z.B. das Admin Panel
 - Analytics
 - Functions
 
-Notes: Authentication Providers (Google, Github, Email, ...)  
-Functions: cloud scaled node.js API endpoints
+Notes: Authentifizierungsanbieter (Google, Github, Email, Passwordless...)  
+Functions: cloud scaled node.js API endpunkte
 
 ----
 
 #### Firebase - Firestore
-- Database
+- Datenbank
 - NoSQL Document Storage
-- Live Change Updates
+- Real-Time updates mit Websockets
 
 ---
 
 ## Styling
 
-- Whether to use a css framework or not
+- CSS Framework: Ja oder nein?
 - Layout
-- Advantages of scss
+- Vorteile von SCSS
 - Responsive Design
