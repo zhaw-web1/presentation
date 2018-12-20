@@ -75,21 +75,8 @@ Notes: Lazy loading
 - Material CDK: Drag & Drop
 - Material CDK: Material-Native Select
 
-Notes: Wir konnten an seperaten Teilen der App arbeiten ohne grosse merge conflicts zu erhalten
-
+Notes: Wir konnten an seperaten Teilen der App arbeiten ohne grosse merge conflicts zu erhalten  
 Lazy Loaded Modules führen dazu dass ein normaler Besucher z.B. das Admin Panel nie lädt   -> App wird kleiner
-
-----
-
-### App ladegrösse:
-
-| Datei        | Grösse  |
-| ------------ | ------- |
-| index.html   |   931 B |
-| styles.css   | 10.8 KB |
-| runtime.js   |  1.6 KB |
-| polyfills.js |   32 KB |
-| main.js      |  352 KB |
 
 ----
 
