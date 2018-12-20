@@ -1,4 +1,4 @@
-# Scythe of Seraph Application
+# Scythe of Seraph
 
 ---
 
@@ -34,38 +34,20 @@
 
 ### Angular 7
 
-- **Komponenten- / Modulsystem**
-  - Gekapseltes styling per Komponent
-  - Einfach wiederverwendbare Komponenten
+**Komponentensystem**
 
-----
-
-#### Komponenten- / Modulsystem
-
-**Komponentenstruktur**
-```
-- app.component
-  - app.component.scss // SCSS stylesheet
-  - app.component.html // HTML-Template
-  - app.component.ts   // Typescript
+```html
+<app-home></app-home>
 ```
 
-----
-
-#### Komponenten- / Modulsystem
-
-**Modulstruktur**
 ```
-- app.module
-  - app.component
-  - home.component
-  - teams.module
-    - teams-overview.component
-    - teams-preview.component
-    - teams-detail.component
+- home/
+  - home.component.scss // SCSS stylesheet
+  - home.component.html // HTML-Template
+  - home.component.ts   // Typescript 'Controller'
 ```
 
-Notes: Lazy loading
+Notes: Einfache, wiederverwendbare komponenten
 
 ----
 
@@ -80,22 +62,17 @@ Lazy Loaded Modules führen dazu dass ein normaler Besucher z.B. das Admin Panel
 
 ----
 
-### Firebase
-- Platform as a Service (PAAS)
-- Für kleinere Projekte kostenfrei
-- JavaScript SDK
-
-----
-
 #### Firebase - Features
-- Authentication
-- Database (Firestore & Realtime DB)
-- Hosting
+- *Authentication*
+- *Database* (Firestore & Realtime DB)
+- *Hosting*
 - Push Notifications
 - Analytics
 - Functions
 
-Notes: Authentifizierungsanbieter (Google, Github, Email, Passwordless...)  
+Notes: 
+Platform as a Service  
+Authentifizierungsanbieter (Google, Github, Email, Passwordless...)  
 Functions: cloud scaled node.js API endpunkte
 
 ----
